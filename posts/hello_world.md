@@ -1,0 +1,6 @@
+---
+title: There Was An Idea...
+publish_date: 2023-03-03
+---
+
+To have a blog post...
