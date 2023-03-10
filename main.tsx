@@ -8,9 +8,9 @@ blog({
   // header: <header>Your custom header</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
-  avatar: "https://assets.otd.ink/phone.svg",
+  avatar: "./img/James.jpg",
   avatarClass: "rounded-full",
-  author: "An author",
+  author: "James Dawson",
 
   // middlewares: [
 
