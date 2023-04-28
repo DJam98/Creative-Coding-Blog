@@ -6,7 +6,7 @@ disable_html_sanitization: true
 
 # I am testig this - woo!
 
-<script>
+
 
 <canvas id=onclick_example></canvas>
 
@@ -72,7 +72,7 @@ disable_html_sanitization: true
     requestAnimationFrame (draw_frame)
 </script>
 
-</script>
+
 
 <script>
 
