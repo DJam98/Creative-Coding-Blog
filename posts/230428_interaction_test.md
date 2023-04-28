@@ -71,6 +71,7 @@ disable_html_sanitization: true
     // call the first frame
     requestAnimationFrame (draw_frame)
 </script>
+
 </script>
 
 <script>
